@@ -1,1 +1,7 @@
-Je suis Aka Yah Anne Stéphanie, étudiante en LPRGL3A à Pigier Côte d'Ivoire, l'université des métiers situé à Abidjan Plateau
+Java est un langage de programmation orienté objet, créé par James Gosling en 1995 chez Sun Microsystems, aujourd’hui propriété d’Oracle. Il est l’un des langages les plus utilisés dans le monde, notamment pour le développement d’applications mobiles, web, de logiciels d’entreprise, et même de systèmes embarqués.
+
+L’un des grands avantages de Java est sa portabilité : un programme Java peut s’exécuter sur n’importe quel appareil disposant d’une machine virtuelle Java (JVM), grâce à la devise "écrire une fois, exécuter partout" ("Write Once, Run Anywhere"). Cela en fait un langage très populaire dans des environnements variés.
+
+Java est également apprécié pour sa sécurité, sa fiabilité et son énorme communauté de développeurs qui contribuent à de nombreuses bibliothèques et frameworks (comme Spring, Hibernate ou JavaFX). Il est aussi la base du développement d’applications Android.
+
+Avec une syntaxe claire, une bonne gestion de la mémoire et une riche bibliothèque standard, Java continue d’être enseigné dans de nombreuses écoles et utilisé dans de grands projets d’entreprise.
